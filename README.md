@@ -1,2 +1,2 @@
-# Tetris_Clone
+# Tetris Clone
 Learning game development by doing.
